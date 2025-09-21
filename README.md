@@ -9,11 +9,26 @@ Whether you're designing distributed systems or want to master a specific techno
 ## 🏗️ Series 1: An Architect's Choice
 
 In this series, we explore the tough decisions architects and senior engineers face when building scalable, resilient, and distributed systems. We'll analyze the trade-offs between different technologies and design patterns, moving beyond "what" and focusing on the "why."
+
+| Episode | Topic | Resources |
+| :--- | :--- | :--- |
+| 01 | **Choosing a Database**: SQL vs. NoSQL for a High-Traffic Application | [Blog Post](LINK_TO_YOUR_SUBSTACK) |
+| 02 | **The Monolith vs. Microservices Dilemma**: When to Break Things Apart | [Blog Post](LINK_TO_YOUR_SUBSTACK) |
+| *...* | *Coming Soon...* | *...* |
+
+
 ---
 
 ## 🔬 Series 2: Deep Dives
 
 Here, we go deep into specific concepts, technologies, and programming paradigms. Forget surface-level tutorials; this series is about building a fundamental understanding from the ground up, complete with code examples and practical insights.
+
+| Episode | Topic | Resources |
+| :--- | :--- | :--- |
+| 01 | **Understanding Event Sourcing**: Beyond the Hype | [Code & Notes](./deep-dives/01-understanding-event-sourcing/) • [Blog Post](LINK_TO_YOUR_SUBSTACK) |
+| 02 | **Mastering Concurrency**: A Practical Guide with Go | [Code & Notes](./deep-dives/02-mastering-concurrent-programming-in-go/) • [Blog Post](LINK_TO_YOUR_SUBSTACK) |
+| *...* | *Coming Soon...* | *...* |
+
 ---
 
 ## 📬 Connect & Follow
@@ -33,5 +48,5 @@ I share content across various platforms. Follow me to stay updated with the lat
 
 Got an idea for a topic? Found a bug in the code? Contributions are welcome!
 
-* **Suggest a Topic**: Please open an [issue](https://github.com/your-username/ajay-tech-series/issues) using the "Topic Suggestion" template.
+* **Suggest a Topic**: Please open an [issue](https://github.com/SimpleAjax/ajay-tech-series/issues) using the "Topic Suggestion" template.
 * **Fix an Error**: Feel free to create a pull request for any fixes or improvements.
