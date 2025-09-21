@@ -12,8 +12,8 @@ In this series, we explore the tough decisions architects and senior engineers f
 
 | Episode | Topic | Resources |
 | :--- | :--- | :--- |
-| 01 | **Choosing a Database**: SQL vs. NoSQL for a High-Traffic Application | [Blog Post](LINK_TO_YOUR_SUBSTACK) |
-| 02 | **The Monolith vs. Microservices Dilemma**: When to Break Things Apart | [Blog Post](LINK_TO_YOUR_SUBSTACK) |
+| 01 | **The ID Choice That Defines Your Database's Destiny: Sequential vs. UUIDs** | [Blog Post](https://ajaykaarangupta.substack.com/p/an-architects-choice-01-the-id-choice) |
+| 02 | **A Guide to Stateful Sessions vs. Stateless JWTs** | [Blog Post](https://ajaykaarangupta.substack.com/p/an-architects-choice-01-the-id-choice) |
 | *...* | *Coming Soon...* | *...* |
 
 
@@ -25,8 +25,6 @@ Here, we go deep into specific concepts, technologies, and programming paradigms
 
 | Episode | Topic | Resources |
 | :--- | :--- | :--- |
-| 01 | **Understanding Event Sourcing**: Beyond the Hype | [Code & Notes](./deep-dives/01-understanding-event-sourcing/) • [Blog Post](LINK_TO_YOUR_SUBSTACK) |
-| 02 | **Mastering Concurrency**: A Practical Guide with Go | [Code & Notes](./deep-dives/02-mastering-concurrent-programming-in-go/) • [Blog Post](LINK_TO_YOUR_SUBSTACK) |
 | *...* | *Coming Soon...* | *...* |
 
 ---
