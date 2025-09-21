@@ -48,5 +48,5 @@ I share content across various platforms. Follow me to stay updated with the lat
 
 Got an idea for a topic? Found a bug in the code? Contributions are welcome!
 
-* **Suggest a Topic**: Please open an [issue](https://github.com/SimpleAjax/ajay-tech-series/issues) using the "Topic Suggestion" template.
+* **Suggest a Topic**: Please open an issue [here](https://github.com/SimpleAjax/ajay-tech-series/issues/new?template=topic-suggestion.yml).
 * **Fix an Error**: Feel free to create a pull request for any fixes or improvements.
