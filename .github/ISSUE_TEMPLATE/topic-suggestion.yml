@@ -1,0 +1,67 @@
+name: "💡 Topic Suggestion"
+description: "Suggest a topic for one of the tech series."
+title: "[SUGGESTION] <Your Topic Title Here>"
+labels: ["suggestion", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to suggest a topic! Please fill out the details below to help me understand your idea.
+
+  - type: dropdown
+    id: series
+    attributes:
+      label: "Which series is this for?"
+      description: "Choose the series that best fits your topic idea."
+      options:
+        - "🏗️ An Architect's Choice"
+        - "🔬 Deep Dives"
+    validations:
+      required: true
+
+  - type: textarea
+    id: topic-summary
+    attributes:
+      label: "Topic Summary"
+      description: "Please provide a clear and concise description of the topic you're suggesting."
+      placeholder: "e.g., A deep dive into the CAP theorem and its practical implications in system design."
+    validations:
+      required: true
+
+  - type: textarea
+    id: why-important
+    attributes:
+      label: "Why is this topic important or interesting?"
+      description: "Why would this be a valuable topic for other backend engineers? What problem does understanding this solve?"
+      placeholder: "e.g., Many engineers have heard of CAP but struggle to apply it when choosing between databases like Cassandra (AP) and a traditional RDBMS (CP)."
+    validations:
+      required: true
+
+  - type: textarea
+    id: key-questions
+    attributes:
+      label: "What specific questions should be answered?"
+      description: "List a few key questions that the content should address to be comprehensive."
+      placeholder: |
+        - What are Consistency, Availability, and Partition Tolerance in simple terms?
+        - Can you provide real-world examples of CP, AP, and CA systems?
+        - How does this choice affect latency and data integrity?
+        - What are the common trade-offs when designing a system?
+
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: "Additional Context & Resources"
+      description: "Feel free to add any other context, links to articles, or documentation that might be helpful."
+      placeholder: "Optional: Here's a great article that scratches the surface... [link]"
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: "Final Checklist"
+      description: "By submitting this issue, you agree to follow our code of conduct."
+      options:
+        - label: "I have searched the existing issues to make sure this topic hasn't already been suggested."
+          required: true
+        - label: "I have provided a clear and descriptive title for this suggestion."
+          required: true
