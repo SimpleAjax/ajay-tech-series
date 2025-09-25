@@ -25,6 +25,7 @@ In this series, we explore the tough decisions architects and senior engineers f
 Here, we go deep into specific concepts, technologies, and programming paradigms. Forget surface-level tutorials; this series is about building a fundamental understanding from the ground up, complete with code examples and practical insights.
 
 | Episode | Topic | Resources |
+| :--- | :--- | :--- |
 | 01 | **A Deep Dive into PostgreSQL B-Tree Index Internals** | [Blog Post](https://ajaykaarangupta.substack.com/p/deep-dive-01-a-deep-dive-into-postgresql) |
 | *...* | *Coming Soon...* | *...* |
 
