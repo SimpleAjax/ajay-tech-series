@@ -15,6 +15,7 @@ In this series, we explore the tough decisions architects and senior engineers f
 | 01 | **The ID Choice That Defines Your Database's Destiny: Sequential vs. UUIDs** | [Blog Post](https://ajaykaarangupta.substack.com/p/an-architects-choice-01-the-id-choice) |
 | 02 | **A Guide to Stateful Sessions vs. Stateless JWTs** | [Blog Post](https://ajaykaarangupta.substack.com/p/an-architects-choice-01-the-id-choice) |
 | 03 | **The Tale of Two Pools: A Deep Dive into PgBouncer vs. HikariCP** | [Blog Post](https://ajaykaarangupta.substack.com/p/an-architects-choice-03-the-tale) |
+| 04 | **The API Time Machine: Versioning in URLs vs. Headers** | [Blog Post](https://ajaykaarangupta.substack.com/p/an-architects-choice-04-the-api-time) |
 | *...* | *Coming Soon...* | *...* |
 
 
