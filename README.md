@@ -15,7 +15,6 @@ In this series, we explore the tough decisions architects and senior engineers f
 | 01 | **The ID Choice That Defines Your Database's Destiny: Sequential vs. UUIDs** | [Blog Post](https://ajaykaarangupta.substack.com/p/an-architects-choice-01-the-id-choice) |
 | 02 | **A Guide to Stateful Sessions vs. Stateless JWTs** | [Blog Post](https://ajaykaarangupta.substack.com/p/an-architects-choice-01-the-id-choice) |
 | 03 | **The Tale of Two Pools: A Deep Dive into PgBouncer vs. HikariCP** | [Blog Post](https://ajaykaarangupta.substack.com/p/an-architects-choice-03-the-tale) |
-
 | *...* | *Coming Soon...* | *...* |
 
 
@@ -26,7 +25,7 @@ In this series, we explore the tough decisions architects and senior engineers f
 Here, we go deep into specific concepts, technologies, and programming paradigms. Forget surface-level tutorials; this series is about building a fundamental understanding from the ground up, complete with code examples and practical insights.
 
 | Episode | Topic | Resources |
-| :--- | :--- | :--- |
+| 01 | **A Deep Dive into PostgreSQL B-Tree Index Internals** | [Blog Post](https://ajaykaarangupta.substack.com/p/deep-dive-01-a-deep-dive-into-postgresql) |
 | *...* | *Coming Soon...* | *...* |
 
 ---
